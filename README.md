@@ -4,6 +4,8 @@ Cuarto Trimestre, 2024
 Proyecto2 - Curso: Product Development
 ==============================
 
+**Ver carpeta modelpredict, se encontrará los script de todo el flujo de proceso de ML**
+
 ML pipeline para producción de código de machine learning de un dataset de préstamos de entidad financiera.
 
 Colaboradores:
