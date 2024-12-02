@@ -1,7 +1,16 @@
-Proyecto2
+Universidad Galileo
+Instituto de Investigación de Operaciones
+Cuarto Trimestre, 2024
+Proyecto2 - Curso: Product Development
 ==============================
 
-ML pipeline for production
+ML pipeline para producción de código de machine learning de un dataset de préstamos de entidad financiera.
+
+Colaboradores:
+Elder Cruz
+Walter Reyes
+Dayana Gamboa
+Rodrigo Cano
 
 Project Organization
 ------------
