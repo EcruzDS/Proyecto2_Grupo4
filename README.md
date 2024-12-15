@@ -1,18 +1,7 @@
-Universidad Galileo
-Instituto de Investigación de Operaciones
-Cuarto Trimestre, 2024
-Proyecto 3 - Curso: Product Development
+Proyecto2
 ==============================
 
-**Ver carpeta modelpredict, se encontrará los script de todo el flujo de proceso de ML**
-
-ML pipeline para producción de código de machine learning de un dataset de préstamos de entidad financiera.
-
-Colaboradores:
-Elder Cruz
-Walter Reyes
-Dayana Gamboa
-Rodrigo Cano
+ML pipeline for production
 
 Project Organization
 ------------
