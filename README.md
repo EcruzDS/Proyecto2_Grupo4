@@ -1,7 +1,7 @@
 Universidad Galileo
 Instituto de Investigación de Operaciones
 Cuarto Trimestre, 2024
-Proyecto2 - Curso: Product Development
+Proyecto 3 - Curso: Product Development
 ==============================
 
 **Ver carpeta modelpredict, se encontrará los script de todo el flujo de proceso de ML**
