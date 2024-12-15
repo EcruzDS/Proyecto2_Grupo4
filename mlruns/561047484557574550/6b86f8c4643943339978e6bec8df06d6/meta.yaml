@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/6b86f8c4643943339978e6bec8df06d6/artifacts
+deleted_time: 1734232515166
+end_time: 1734231877112
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 6b86f8c4643943339978e6bec8df06d6
+run_name: stately-shrimp-549
+run_uuid: 6b86f8c4643943339978e6bec8df06d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734231865170
+status: 3
+tags: []
+user_id: Trull

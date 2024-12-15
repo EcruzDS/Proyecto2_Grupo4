@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/7bc4a470da6245dd9590d63f117d24be/artifacts
+deleted_time: 1734232515196
+end_time: 1734231498464
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 7bc4a470da6245dd9590d63f117d24be
+run_name: fortunate-croc-987
+run_uuid: 7bc4a470da6245dd9590d63f117d24be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734231484812
+status: 3
+tags: []
+user_id: Trull

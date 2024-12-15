@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/30e5f1890a1a4a2bb999e043e25b1251/artifacts
+deleted_time: 1734233766204
+end_time: 1734233614954
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 30e5f1890a1a4a2bb999e043e25b1251
+run_name: brawny-squid-330
+run_uuid: 30e5f1890a1a4a2bb999e043e25b1251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734233601947
+status: 3
+tags: []
+user_id: Trull

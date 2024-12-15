@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/ac9de1737f934a938534eab047177db7/artifacts
+deleted_time: 1734236725275
+end_time: 1734233208629
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: ac9de1737f934a938534eab047177db7
+run_name: kindly-worm-196
+run_uuid: ac9de1737f934a938534eab047177db7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734233195612
+status: 3
+tags: []
+user_id: Trull

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/f88075e4bbe1424d983348063fd0f085/artifacts
+deleted_time: 1734236725270
+end_time: 1734233481450
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: f88075e4bbe1424d983348063fd0f085
+run_name: capable-gnat-316
+run_uuid: f88075e4bbe1424d983348063fd0f085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734233471935
+status: 3
+tags: []
+user_id: Trull

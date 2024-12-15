@@ -1,0 +1,20 @@
+artifact_path: RF Model 1
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 752451
+model_uuid: 9fad65bf165e4d328cc408fc3a4e82a5
+run_id: 95425d18275346959e62ef20e806ee82
+utc_time_created: '2024-12-14 23:08:57.344363'

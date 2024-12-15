@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/63432382b7c14e7c83d1146c16837368/artifacts
+deleted_time: 1734232608429
+end_time: 1734232555568
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 63432382b7c14e7c83d1146c16837368
+run_name: handsome-stork-237
+run_uuid: 63432382b7c14e7c83d1146c16837368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734232555091
+status: 4
+tags: []
+user_id: Trull

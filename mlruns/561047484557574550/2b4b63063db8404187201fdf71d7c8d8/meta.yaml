@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/2b4b63063db8404187201fdf71d7c8d8/artifacts
+deleted_time: 1734231511218
+end_time: 1734230625500
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 2b4b63063db8404187201fdf71d7c8d8
+run_name: gentle-doe-150
+run_uuid: 2b4b63063db8404187201fdf71d7c8d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734230552495
+status: 4
+tags: []
+user_id: Trull
