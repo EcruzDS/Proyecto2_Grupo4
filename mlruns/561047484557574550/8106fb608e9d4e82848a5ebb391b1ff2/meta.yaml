@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/8106fb608e9d4e82848a5ebb391b1ff2/artifacts
+deleted_time: 1734232515196
+end_time: 1734231319233
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 8106fb608e9d4e82848a5ebb391b1ff2
+run_name: flawless-tern-361
+run_uuid: 8106fb608e9d4e82848a5ebb391b1ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734231304912
+status: 3
+tags: []
+user_id: Trull

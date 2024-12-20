@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/6f7bee91e1534586967dfb7cc4f0f18d/artifacts
+deleted_time: 1734232836215
+end_time: 1734232657065
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 6f7bee91e1534586967dfb7cc4f0f18d
+run_name: fearless-stoat-152
+run_uuid: 6f7bee91e1534586967dfb7cc4f0f18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734232594044
+status: 4
+tags: []
+user_id: Trull

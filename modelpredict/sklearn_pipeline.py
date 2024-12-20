@@ -1,6 +1,7 @@
 """Este modulo contiene las funciones del pipeline para transformar el dataset
 """
 import pickle
+import os
 import configparser
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
@@ -13,7 +14,8 @@ from feature_engine.outliers import Winsorizer
 def pipeline_model():
     """Esta función crea la ingeniería de características del modelo
     """
-    dataset = pd.read_csv('../data/raw/DataLoans_0424.csv', delimiter = ";")
+    data_path = os.path.abspath("../data/raw/DataLoans_0424.csv")
+    dataset = pd.read_csv(data_path, delimiter = ";")
     dataset.head()
     label_encoder = LabelEncoder()
     dataset['SegmentoComercial'] = label_encoder.fit_transform(dataset['SegmentoComercial'])

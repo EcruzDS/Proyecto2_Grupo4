@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/f370cf37ff3c44b6aff0f80c54e6cb69/artifacts
+deleted_time: 1734232608428
+end_time: 1734232519875
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: f370cf37ff3c44b6aff0f80c54e6cb69
+run_name: languid-fox-743
+run_uuid: f370cf37ff3c44b6aff0f80c54e6cb69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734232518871
+status: 4
+tags: []
+user_id: Trull

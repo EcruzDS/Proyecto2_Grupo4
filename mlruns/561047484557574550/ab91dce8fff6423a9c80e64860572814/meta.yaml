@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/ab91dce8fff6423a9c80e64860572814/artifacts
+deleted_time: 1734232515167
+end_time: 1734231839060
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: ab91dce8fff6423a9c80e64860572814
+run_name: lyrical-bird-971
+run_uuid: ab91dce8fff6423a9c80e64860572814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734231823575
+status: 3
+tags: []
+user_id: Trull

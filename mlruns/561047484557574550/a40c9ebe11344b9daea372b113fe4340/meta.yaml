@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/a40c9ebe11344b9daea372b113fe4340/artifacts
+deleted_time: 1734233418712
+end_time: 1734233387963
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: a40c9ebe11344b9daea372b113fe4340
+run_name: carefree-bird-32
+run_uuid: a40c9ebe11344b9daea372b113fe4340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734233326136
+status: 4
+tags: []
+user_id: Trull

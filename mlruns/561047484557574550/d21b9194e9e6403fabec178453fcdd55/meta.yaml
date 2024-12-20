@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/d21b9194e9e6403fabec178453fcdd55/artifacts
+end_time: 1734238503546
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: d21b9194e9e6403fabec178453fcdd55
+run_name: aged-fowl-744
+run_uuid: d21b9194e9e6403fabec178453fcdd55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734238490177
+status: 3
+tags: []
+user_id: Trull

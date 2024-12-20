@@ -1,0 +1,8 @@
+schema: '2.0'
+stages:
+  create_features_and_base_pipeline:
+    cmd: python modelpredict/sklearn_pipeline.py
+  configure_and_fit_pipeline:
+    cmd: python modelpredict/configure_and_fit_pipeline.py
+  predict_pipeline:
+    cmd: python modelpredict/predict_pipeline.py

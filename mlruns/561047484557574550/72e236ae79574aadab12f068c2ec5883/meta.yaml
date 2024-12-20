@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/72e236ae79574aadab12f068c2ec5883/artifacts
+deleted_time: 1734236725267
+end_time: 1734233870415
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 72e236ae79574aadab12f068c2ec5883
+run_name: nimble-lynx-736
+run_uuid: 72e236ae79574aadab12f068c2ec5883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734233857555
+status: 3
+tags: []
+user_id: Trull
