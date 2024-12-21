@@ -14,9 +14,11 @@ Walter Reyes
 Dayana Gamboa
 Rodrigo Cano
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AvigRcw1EhU&ab_channel=ElderCruz_UGalileo![image](https://github.com/user-attachments/assets/938329a3-2043-41e3-9653-f4ecf022148b)
-/0.jpg)]([https://www.youtube.com/watch?v=AvigRcw1EhU&ab_channel=ElderCruz_UGalileo![image](https://github.com/user-attachments/assets/100f33fe-1dda-4502-abb5-39896e1d0181)
-](https://youtu.be/AvigRcw1EhU))
+# - VIDEO -ProyectoFinal Product Development
+Para presentar los resultados del proyecto final del curso product Development, a continuación el **VIDEO** en la plataforma **YOUTUBE**, hacer click en el **thumbnail** (miniatura) - enlace a video- **A CONTINUACIÓN**
+
+[![Video Proyecto Final DataScience](https://vumbnail.com/933327331_large.jpg)]([https://vimeo.com/933327331](https://youtu.be/AvigRcw1EhU))![image](https://github.com/user-attachments/assets/4184123f-6908-481c-bcfc-57998d41e195)
+
 
 
 Project Organization
