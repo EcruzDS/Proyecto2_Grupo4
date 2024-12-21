@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/fb06f4660eac4f8abfa3d87e72435f35/artifacts
+end_time: 1734735276759
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: fb06f4660eac4f8abfa3d87e72435f35
+run_name: colorful-gnat-450
+run_uuid: fb06f4660eac4f8abfa3d87e72435f35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734735251538
+status: 3
+tags: []
+user_id: Trull

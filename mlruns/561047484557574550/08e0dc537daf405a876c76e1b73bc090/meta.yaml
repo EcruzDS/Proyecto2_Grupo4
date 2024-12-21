@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/08e0dc537daf405a876c76e1b73bc090/artifacts
+end_time: 1734731819640
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 08e0dc537daf405a876c76e1b73bc090
+run_name: suave-whale-837
+run_uuid: 08e0dc537daf405a876c76e1b73bc090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734731793880
+status: 3
+tags: []
+user_id: Trull

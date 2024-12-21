@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/17cca5fc3e054400b17b548995b29f68/artifacts
+end_time: 1734733638223
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 17cca5fc3e054400b17b548995b29f68
+run_name: welcoming-finch-94
+run_uuid: 17cca5fc3e054400b17b548995b29f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734733622662
+status: 3
+tags: []
+user_id: Trull

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/a73dfae414c14de9bed1c20dc130f381/artifacts
+end_time: 1734733668628
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: a73dfae414c14de9bed1c20dc130f381
+run_name: persistent-wasp-234
+run_uuid: a73dfae414c14de9bed1c20dc130f381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734733652372
+status: 3
+tags: []
+user_id: Trull

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/cb56b667f8ef4d93b548b0bd21c2a7cc/artifacts
+end_time: 1734731895371
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: cb56b667f8ef4d93b548b0bd21c2a7cc
+run_name: sincere-tern-194
+run_uuid: cb56b667f8ef4d93b548b0bd21c2a7cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734731875468
+status: 3
+tags: []
+user_id: Trull

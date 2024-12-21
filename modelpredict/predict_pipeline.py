@@ -12,15 +12,14 @@ import mlflow
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.metrics import accuracy_score
 
-
 def predict_pipeline():
     """Esta función crea las predicciones del modelo
     """
-    with open('../artifacts/pipeline.pkl','rb') as f:
+    with open('artifacts/pipeline.pkl','rb') as f:
         loans_model = pickle.load(f)
 
-    train_data = pd.read_csv('../data/processed/feature_for_models.csv')
-    test_data = pd.read_csv('../data/processed/test_dataset.csv')
+    train_data = pd.read_csv('data/processed/feature_for_models.csv')
+    test_data = pd.read_csv('data/processed/test_dataset.csv')
 
     x_features = train_data.drop(labels=['SegmentoComercial'], axis = 1)
     y_target = train_data['SegmentoComercial']
@@ -32,9 +31,9 @@ def predict_pipeline():
     mlflow.set_tracking_uri('http://127.0.0.1:5000')
     mlflow.set_experiment('Modelo Prediccion Clasificacion Prestamos')
 
-    predictions_folder = '../data/predictions'
+    predictions_folder = 'data/predictions'
     timestamp = datetime.now().strftime("%Y%m%d%H")
-
+    
     with mlflow.start_run():
         # Configuración 1 Random Forest
         rf_model_1 = RandomForestClassifier(

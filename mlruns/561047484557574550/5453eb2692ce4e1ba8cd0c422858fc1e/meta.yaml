@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/561047484557574550/5453eb2692ce4e1ba8cd0c422858fc1e/artifacts
+deleted_time: 1734336320171
 end_time: 1734238547593
 entry_point_name: ''
 experiment_id: '561047484557574550'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5453eb2692ce4e1ba8cd0c422858fc1e
 run_name: masked-asp-460
 run_uuid: 5453eb2692ce4e1ba8cd0c422858fc1e

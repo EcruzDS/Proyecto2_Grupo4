@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/b3e3bccf5dc543eeb8e4d79d50aa9262/artifacts
+end_time: 1734336703676
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: b3e3bccf5dc543eeb8e4d79d50aa9262
+run_name: legendary-cat-714
+run_uuid: b3e3bccf5dc543eeb8e4d79d50aa9262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734336686912
+status: 3
+tags: []
+user_id: Trull

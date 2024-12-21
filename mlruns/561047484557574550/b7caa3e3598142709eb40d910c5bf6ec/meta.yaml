@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/b7caa3e3598142709eb40d910c5bf6ec/artifacts
+end_time: 1734730163144
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: b7caa3e3598142709eb40d910c5bf6ec
+run_name: masked-owl-443
+run_uuid: b7caa3e3598142709eb40d910c5bf6ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734730147895
+status: 3
+tags: []
+user_id: Trull

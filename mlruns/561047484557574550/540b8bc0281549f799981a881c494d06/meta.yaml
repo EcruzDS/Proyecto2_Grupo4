@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/540b8bc0281549f799981a881c494d06/artifacts
+end_time: 1734734099249
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 540b8bc0281549f799981a881c494d06
+run_name: tasteful-chimp-489
+run_uuid: 540b8bc0281549f799981a881c494d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734734081637
+status: 3
+tags: []
+user_id: Trull

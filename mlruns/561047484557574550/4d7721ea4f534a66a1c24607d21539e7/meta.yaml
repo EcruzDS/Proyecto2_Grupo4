@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/4d7721ea4f534a66a1c24607d21539e7/artifacts
+end_time: 1734734121962
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 4d7721ea4f534a66a1c24607d21539e7
+run_name: salty-mule-502
+run_uuid: 4d7721ea4f534a66a1c24607d21539e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734734099299
+status: 3
+tags: []
+user_id: Trull

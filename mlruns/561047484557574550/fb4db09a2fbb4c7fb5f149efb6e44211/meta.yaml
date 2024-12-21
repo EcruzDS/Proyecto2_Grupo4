@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/fb4db09a2fbb4c7fb5f149efb6e44211/artifacts
+end_time: 1734731961318
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: fb4db09a2fbb4c7fb5f149efb6e44211
+run_name: fortunate-chimp-824
+run_uuid: fb4db09a2fbb4c7fb5f149efb6e44211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734731942336
+status: 3
+tags: []
+user_id: Trull

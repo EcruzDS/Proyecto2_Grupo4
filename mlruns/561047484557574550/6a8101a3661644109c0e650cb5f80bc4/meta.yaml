@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/6a8101a3661644109c0e650cb5f80bc4/artifacts
+deleted_time: 1734731786318
+end_time: 1734730253030
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 6a8101a3661644109c0e650cb5f80bc4
+run_name: abundant-chimp-751
+run_uuid: 6a8101a3661644109c0e650cb5f80bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734730183058
+status: 4
+tags: []
+user_id: Trull

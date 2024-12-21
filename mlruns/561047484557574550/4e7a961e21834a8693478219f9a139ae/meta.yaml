@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/4e7a961e21834a8693478219f9a139ae/artifacts
+deleted_time: 1734731786316
+end_time: 1734731094913
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 4e7a961e21834a8693478219f9a139ae
+run_name: bold-hawk-253
+run_uuid: 4e7a961e21834a8693478219f9a139ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734731030593
+status: 4
+tags: []
+user_id: Trull

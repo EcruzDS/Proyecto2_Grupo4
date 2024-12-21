@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/f532bafb16984846a29bc080f56e1660/artifacts
+end_time: 1734734050192
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: f532bafb16984846a29bc080f56e1660
+run_name: receptive-bass-517
+run_uuid: f532bafb16984846a29bc080f56e1660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734734030583
+status: 3
+tags: []
+user_id: Trull

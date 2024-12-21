@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/ddaac8d20f0549c4a3f54bc77a5bca41/artifacts
+deleted_time: 1734336349605
+end_time: 1734336233174
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: ddaac8d20f0549c4a3f54bc77a5bca41
+run_name: valuable-shark-380
+run_uuid: ddaac8d20f0549c4a3f54bc77a5bca41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734336227792
+status: 4
+tags: []
+user_id: Trull
