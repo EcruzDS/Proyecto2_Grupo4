@@ -14,6 +14,11 @@ Walter Reyes
 Dayana Gamboa
 Rodrigo Cano
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AvigRcw1EhU&ab_channel=ElderCruz_UGalileo![image](https://github.com/user-attachments/assets/938329a3-2043-41e3-9653-f4ecf022148b)
+/0.jpg)]([https://www.youtube.com/watch?v=AvigRcw1EhU&ab_channel=ElderCruz_UGalileo![image](https://github.com/user-attachments/assets/100f33fe-1dda-4502-abb5-39896e1d0181)
+](https://youtu.be/AvigRcw1EhU))
+
+
 Project Organization
 ------------
 
