@@ -17,7 +17,7 @@ Rodrigo Cano
 # - VIDEO -ProyectoFinal Product Development
 Para presentar los resultados del proyecto final del curso product Development, a continuación el **VIDEO** en la plataforma **YOUTUBE**, hacer click en el **thumbnail** (miniatura) - enlace a video- **A CONTINUACIÓN**
 
-[![ProductDevelopment](https://img.youtube.com/vi/AvigRcw1EhU&ab_channel=ElderCruz_UGalileo/0.jpg)](https://www.youtube.com/watch?v=AvigRcw1EhU&ab_channel=ElderCruz_UGalileo)
+[![ProductDevelopment](https://vumbnail.com/AvigRcw1EhU&ab_channel=ElderCruz_UGalileo.jpg)](https://www.youtube.com/watch?v=AvigRcw1EhU&ab_channel=ElderCruz_UGalileo)
 
 
 
