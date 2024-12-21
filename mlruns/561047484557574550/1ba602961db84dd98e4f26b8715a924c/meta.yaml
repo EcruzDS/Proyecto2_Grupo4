@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/561047484557574550/1ba602961db84dd98e4f26b8715a924c/artifacts
+deleted_time: 1734336320172
 end_time: 1734238525420
 entry_point_name: ''
 experiment_id: '561047484557574550'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1ba602961db84dd98e4f26b8715a924c
 run_name: agreeable-kit-120
 run_uuid: 1ba602961db84dd98e4f26b8715a924c

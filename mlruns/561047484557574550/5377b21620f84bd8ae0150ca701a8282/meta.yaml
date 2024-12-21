@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/5377b21620f84bd8ae0150ca701a8282/artifacts
+end_time: 1734731838680
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 5377b21620f84bd8ae0150ca701a8282
+run_name: big-mink-197
+run_uuid: 5377b21620f84bd8ae0150ca701a8282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734731819768
+status: 3
+tags: []
+user_id: Trull

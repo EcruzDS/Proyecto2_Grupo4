@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/92cc5660e72d459da8a5b4b65d7bedd1/artifacts
+deleted_time: 1734336529650
+end_time: 1734336417745
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 92cc5660e72d459da8a5b4b65d7bedd1
+run_name: resilient-stoat-197
+run_uuid: 92cc5660e72d459da8a5b4b65d7bedd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734336353975
+status: 4
+tags: []
+user_id: Trull

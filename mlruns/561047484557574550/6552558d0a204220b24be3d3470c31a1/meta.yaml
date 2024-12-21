@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/6552558d0a204220b24be3d3470c31a1/artifacts
+end_time: 1734733556099
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 6552558d0a204220b24be3d3470c31a1
+run_name: luxuriant-mouse-760
+run_uuid: 6552558d0a204220b24be3d3470c31a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734733555565
+status: 4
+tags: []
+user_id: Trull

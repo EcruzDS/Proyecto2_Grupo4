@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/7bf43e76cf0b46c282482d4c76be334c/artifacts
+deleted_time: 1734336320170
+end_time: 1734332353502
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 7bf43e76cf0b46c282482d4c76be334c
+run_name: big-shoat-419
+run_uuid: 7bf43e76cf0b46c282482d4c76be334c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734332310796
+status: 3
+tags: []
+user_id: Trull

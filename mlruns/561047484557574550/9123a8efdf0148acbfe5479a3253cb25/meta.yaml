@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/9123a8efdf0148acbfe5479a3253cb25/artifacts
+end_time: 1734735151339
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 9123a8efdf0148acbfe5479a3253cb25
+run_name: stylish-shad-292
+run_uuid: 9123a8efdf0148acbfe5479a3253cb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734735120913
+status: 3
+tags: []
+user_id: Trull

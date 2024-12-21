@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/5705d559c1954b2d80d66191a852a536/artifacts
+end_time: 1734336515605
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 5705d559c1954b2d80d66191a852a536
+run_name: masked-zebra-823
+run_uuid: 5705d559c1954b2d80d66191a852a536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734336494195
+status: 3
+tags: []
+user_id: Trull

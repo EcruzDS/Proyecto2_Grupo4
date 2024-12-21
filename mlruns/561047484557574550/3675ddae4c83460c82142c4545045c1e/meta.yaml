@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/3675ddae4c83460c82142c4545045c1e/artifacts
+end_time: 1734336657001
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 3675ddae4c83460c82142c4545045c1e
+run_name: orderly-hare-279
+run_uuid: 3675ddae4c83460c82142c4545045c1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734336640318
+status: 3
+tags: []
+user_id: Trull

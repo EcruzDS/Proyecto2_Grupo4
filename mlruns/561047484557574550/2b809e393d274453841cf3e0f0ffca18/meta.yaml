@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/2b809e393d274453841cf3e0f0ffca18/artifacts
+end_time: 1734733688035
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 2b809e393d274453841cf3e0f0ffca18
+run_name: adventurous-hawk-802
+run_uuid: 2b809e393d274453841cf3e0f0ffca18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734733668681
+status: 3
+tags: []
+user_id: Trull

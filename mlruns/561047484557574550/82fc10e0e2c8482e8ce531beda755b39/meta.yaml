@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/561047484557574550/82fc10e0e2c8482e8ce531beda755b39/artifacts
+deleted_time: 1734336320187
 end_time: 1734238515829
 entry_point_name: ''
 experiment_id: '561047484557574550'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 82fc10e0e2c8482e8ce531beda755b39
 run_name: capricious-fowl-260
 run_uuid: 82fc10e0e2c8482e8ce531beda755b39

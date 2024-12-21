@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/8c20155faa5b4cc1a545c82f84f80959/artifacts
+deleted_time: 1734336199986
+end_time: 1734332416681
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: 8c20155faa5b4cc1a545c82f84f80959
+run_name: thundering-panda-167
+run_uuid: 8c20155faa5b4cc1a545c82f84f80959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734332353713
+status: 4
+tags: []
+user_id: Trull

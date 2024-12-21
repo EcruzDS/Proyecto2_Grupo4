@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/27aea111dfc74febaa70da18327280b2/artifacts
+end_time: 1734732038083
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 27aea111dfc74febaa70da18327280b2
+run_name: judicious-pig-662
+run_uuid: 27aea111dfc74febaa70da18327280b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734732019411
+status: 3
+tags: []
+user_id: Trull

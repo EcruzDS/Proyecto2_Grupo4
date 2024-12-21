@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/c4e88ddbe2d84a4a89d4b212db5f5d3e/artifacts
+deleted_time: 1734731786321
+end_time: 1734731246107
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: deleted
+run_id: c4e88ddbe2d84a4a89d4b212db5f5d3e
+run_name: upset-eel-812
+run_uuid: c4e88ddbe2d84a4a89d4b212db5f5d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734731180365
+status: 4
+tags: []
+user_id: Trull

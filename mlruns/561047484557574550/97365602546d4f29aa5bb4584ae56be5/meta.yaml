@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/97365602546d4f29aa5bb4584ae56be5/artifacts
+end_time: 1734731453719
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 97365602546d4f29aa5bb4584ae56be5
+run_name: nervous-cow-110
+run_uuid: 97365602546d4f29aa5bb4584ae56be5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734731431700
+status: 3
+tags: []
+user_id: Trull

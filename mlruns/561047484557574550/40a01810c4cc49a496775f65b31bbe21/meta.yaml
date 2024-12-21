@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/40a01810c4cc49a496775f65b31bbe21/artifacts
+end_time: 1734735215798
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 40a01810c4cc49a496775f65b31bbe21
+run_name: thoughtful-colt-489
+run_uuid: 40a01810c4cc49a496775f65b31bbe21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734735195354
+status: 3
+tags: []
+user_id: Trull
