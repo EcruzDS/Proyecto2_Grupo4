@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/2b17695640b64bddb060538a1ecb0df2/artifacts
+end_time: 1735071526389
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 2b17695640b64bddb060538a1ecb0df2
+run_name: popular-lark-319
+run_uuid: 2b17695640b64bddb060538a1ecb0df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735071506996
+status: 3
+tags: []
+user_id: Trull

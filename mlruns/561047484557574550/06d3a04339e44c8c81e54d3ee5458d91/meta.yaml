@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/06d3a04339e44c8c81e54d3ee5458d91/artifacts
+end_time: 1735071600061
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 06d3a04339e44c8c81e54d3ee5458d91
+run_name: gregarious-hound-614
+run_uuid: 06d3a04339e44c8c81e54d3ee5458d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735071579381
+status: 3
+tags: []
+user_id: Trull

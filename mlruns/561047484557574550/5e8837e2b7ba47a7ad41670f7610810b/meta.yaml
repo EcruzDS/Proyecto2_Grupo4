@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/5e8837e2b7ba47a7ad41670f7610810b/artifacts
+end_time: 1735071708570
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: 5e8837e2b7ba47a7ad41670f7610810b
+run_name: carefree-grouse-110
+run_uuid: 5e8837e2b7ba47a7ad41670f7610810b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735071690669
+status: 3
+tags: []
+user_id: Trull

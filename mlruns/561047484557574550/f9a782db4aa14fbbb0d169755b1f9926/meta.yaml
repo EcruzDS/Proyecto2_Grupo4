@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/f9a782db4aa14fbbb0d169755b1f9926/artifacts
+end_time: 1735071563710
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: f9a782db4aa14fbbb0d169755b1f9926
+run_name: honorable-frog-780
+run_uuid: f9a782db4aa14fbbb0d169755b1f9926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735071548362
+status: 3
+tags: []
+user_id: Trull

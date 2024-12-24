@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/561047484557574550/e138193ff1344e1386c0857b8df9479a/artifacts
+end_time: 1735071742839
+entry_point_name: ''
+experiment_id: '561047484557574550'
+lifecycle_stage: active
+run_id: e138193ff1344e1386c0857b8df9479a
+run_name: calm-bear-417
+run_uuid: e138193ff1344e1386c0857b8df9479a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735071724136
+status: 3
+tags: []
+user_id: Trull
