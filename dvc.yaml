@@ -6,4 +6,4 @@ stages:
     cmd: python modelpredict/configure_and_fit_pipeline.py
 
   predict:
-    cmd: python modelpredict/predict.py
+    cmd: python modelpredict/predict2.py
